@@ -102,7 +102,7 @@ Keys uniquely identify records within a table and establish relationships betwee
 - **Super Key**: A set of one or more attributes that can uniquely identify a row in a table.
 - **Candidate Key**: A minimal Super Key (no redundant attributes). Any candidate key is eligible to become the Primary Key.
 - **Primary Key**: A chosen Candidate Key that uniquely identifies each row in a table. It cannot be null and must be unique.
-- **Foreign Key**: An attribute in a table that references the Primary Key of another table. It is used to enforce Referential Integrity between tables.
+- **Foreign Key**: An attribute in a table thEat references the Primary Key of another table. It is used to enforce Referential Integrity between tables.
 
 ---
 
