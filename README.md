@@ -7,17 +7,19 @@ Structured documentation and practical notes from a 12-month Full Stack Engineer
 ## 📁 Repository Structure
 
 ```
-fullstack-foundation-docs/
+├── fullstack-foundation-docs/
+│   ├── 01-Internet-Basics/
+│   ├── 02-HTML-CSS/
+│   ├── 03-JavaScript/
+│   ├── 04-Git/
+│   ├── 05-ReactJS/
+│   ├── 06-NodeJS/
+│   └── 07-Express/
 │
-├── 01-Internet-Basics/
-├── 02-HTML-CSS/
-├── 03-JavaScript/
-├── 04-Git/
-├── 05-ReactJS/
-├── 06-NodeJS/
-├── 07-Express/
+├── DBMS/
+│   └── 01_Introduction.md
 │
-└── resources.md
+└── README.md
 ```
 
 ---
@@ -31,6 +33,7 @@ fullstack-foundation-docs/
 - Node.js Architecture & Runtime
 - Express.js & Middleware
 - Git & Version Control
+- Database Management Systems (DBMS) Fundamentals
 
 ---
 
