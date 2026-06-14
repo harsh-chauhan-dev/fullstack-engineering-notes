@@ -6,21 +6,24 @@ Structured documentation and practical notes from a 12-month Full Stack Engineer
 
 ## 📁 Repository Structure
 
-```
-├── fullstack-foundation-docs/
-│   ├── 01-Internet-Basics/
-│   ├── 02-HTML-CSS/
-│   ├── 03-JavaScript/
-│   ├── 04-Git/
-│   ├── 05-ReactJS/
-│   ├── 06-NodeJS/
-│   └── 07-Express/
-│
+``` bash
+
+├──  Frontend Notes/
+│   ├── 01_Internet-Basics/
+│   ├── 02_HTML-CSS/
+│   ├── 03_JavaScript/
+│   ├── 04_Git/
+│   ├── 05_ReactJS/
+│  
 ├── DBMS/
 │   └── 01_Introduction.md
 │
+├── JWT
+ |       ├── 01_Introduction.md
+ |       ├── 02_Strcture.md
 └── README.md
-```
+
+``` 
 
 ---
 
