@@ -3,7 +3,8 @@
 > A complete guide to understanding how databases process queries internally, manage storage, execute CRUD operations, and ensure data consistency.
 
 
-![Architecture-image](fullstack-engineering-notes/DBMS/assets/Databse_architecture_digram-image.png)
+<img width="1536" height="1024" alt="Databse_architecture_digram-image" src="https://github.com/user-attachments/assets/0de7aa38-5601-479e-b406-7a364e3e1052" />
+
 
 ---
 
